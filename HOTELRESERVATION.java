@@ -11,7 +11,7 @@ public class HOTELRESERVATION {
 	
     private static final String url = "jdbc:mysql://localhost:3306/hotel_db";
     private static final String username = "root";
-    private static final String password = "DOLLY@01dhote";
+    private static final String password = "*********";
 
     public static void main(String[] args) {
         try {
